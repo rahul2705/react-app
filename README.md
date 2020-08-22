@@ -31,3 +31,7 @@ Here, I have created a Student Management System which has following features :
        npm install @material-ui/core
        npm install @material-ui/icons
     ```
+* Install react router for routing to different urls :
+    ```
+       npm install react-router-dom
+    ```
